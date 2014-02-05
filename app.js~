@@ -1,6 +1,6 @@
 // Initialize StackMob
 StackMob.init({
-  publicKey: "b9695182-fea8-4a59-a9cc-efebe50149ac",
+  publicKey: "YOUR_PUBLIC_KEY",
   apiVersion: 0
 });
 
